@@ -1,0 +1,10 @@
+
+myname = input('Введите имя: ')
+if myname == 'Вячеслав' :
+    result = 'Привет Вячеслав'
+else:
+    result = 'Нет такого имени'
+print(result)
+
+
+
